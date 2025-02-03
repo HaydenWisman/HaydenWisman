@@ -2,11 +2,11 @@
   
 <h2>👨‍💻 Software Development and CyberSecurity Projects:</h2>
 
-  - [Active Directory Home Lab]()
+  - [Ethical Hacking Lab]()
 
 <h2>📺 Certifications</h2>
 
-- [Certified In CyberSecurity | Coding Dojo ]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://app.luminpdf.com/viewer/67a115ebd231239185bd5dfa))
+- [Certified In CyberSecurity | Coding Dojo ]([file:///C:/Users/Owner/Downloads/Coding%20Dojo%20Official%20Certificate%20(2).pdf))
 
 <h2> 🤳 Connect with me:</h2>
 
