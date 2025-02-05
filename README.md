@@ -11,7 +11,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/hayden-wisman))
+[linkedin]: [https://linkedin.com/in/hayden-wisman](https://www.linkedin.com/in/hayden-wisman))
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
